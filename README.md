@@ -1,24 +1,24 @@
 Siga los siguientes pasos para poner a funcionar el proyecto, abra la consola y ubiquese dentro de la raiz del proyecto una vez clonado.
 
-## Project Setup
+## Instalar paquetes del proyecto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar para pruebas
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compilar para Producción
 
 ```sh
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Lint
 
 ```sh
 npm run lint
